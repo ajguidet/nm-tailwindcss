@@ -1,5 +1,5 @@
 {
-  "name": "nm-tailwindcss-plugin",
+  "name": "nm-tailwindcss",
   "version": "0.1.0",
   "description": "A neumorphist tailwindcss plugin",
   "main": "index.js",
