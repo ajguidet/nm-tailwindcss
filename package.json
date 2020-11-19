@@ -1,12 +1,29 @@
 {
   "name": "nm-tailwindcss",
   "version": "0.1.0",
-  "description": "A neumorphist tailwindcss plugin",
+  "description": "Generate soft UI CSS code using tailwindcss",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
-    "test": "echo \"No test specified\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ajguidet",
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "css",
+    "neumorphism"
+  ],
+  "author": "Angel Guidet <ajguidet@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajguidet/nm-tailwindcss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajguidet/nm-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/ajguidet/nm-tailwindcss#readme",
   "license": "MIT",
   "dependencies": {
     "color": "^3.1.3",
