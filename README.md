@@ -1,1 +1,1 @@
-# nm-tailwindcss
+# nm-tailwindcss-plugin
